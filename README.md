@@ -61,6 +61,12 @@ Texto utilizado para aprofundamento teórico do conceito de Pensamento Computaci
 
 Estudo utilizado para analisar a presença do Pensamento Computacional no contexto educacional brasileiro e os impactos das políticas relacionadas à Computação na Educação Básica.
 
+Diretrizes para ensino de Computação na Educação Básica — SBC: acessar documento
+Referenciais de Formação em Computação: Educação Básica — SBC: acessar documento
+Computação na Educação Básica — Complemento à BNCC: acessar Resolução CNE/CEB nº 1/2022
+Entendendo o Pensamento Computacional: acessar publicação
+Pensamento Computacional na Educação Básica Brasileira: acessar publicação
+
 ---
 
 # 🤖 Exploração no NotebookLM
